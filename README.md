@@ -85,7 +85,7 @@ AI Applications
 To become a skilled AI Engineer / Data Scientist and contribute to innovative AI solutions that solve real‑world problems.
 
 📫 Connect With Me
-GitHub: 
+GitHub: https://github.com/sakshi03-cyber
 
 LinkedIn: https://www.linkedin.com/in/sakshi-mishra-2525763aa/
 
