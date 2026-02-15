@@ -85,8 +85,8 @@ AI Applications
 To become a skilled AI Engineer / Data Scientist and contribute to innovative AI solutions that solve real‑world problems.
 
 📫 Connect With Me
-GitHub: https://github.com/your‑username
+GitHub: 
 
-LinkedIn: https://linkedin.com/in/your‑profile
+LinkedIn: https://www.linkedin.com/in/sakshi-mishra-2525763aa/
 
-Email: your.email@example.com
+Email: misakshi5656@gamil.com
